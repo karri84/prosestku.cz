@@ -1,0 +1,30 @@
+top:
+  - link: "prosestku.cz"
+    url:  "https://www.prosestku.cz"
+    icon: "fa fa-home"
+  - link: "pirati.cz"
+    url:  "https://www.pirati.cz"
+    icon: "fa fa-home"
+  - link: "nasepardubice.cz"
+    url:  "http://www.nasepardubice.cz.cz"
+    icon: "fa fa-home"
+
+main:
+  - link: /aktuality/
+    name: Aktuality
+    match: aktuality
+  - link: /komunalni-volby/
+    name: Naši kandidáti a program
+    match: komunalni-volby
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
+
+bottom:
+  - class: small-12 medium-4
+    title: Makáme
+    links:
+      - link: /komunalni-volby/
+        name: Volby
+      - link: /aktuality/
+        name: Aktuality
