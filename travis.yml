@@ -1,7 +1,7 @@
 language: ruby
 rvm:
     - 2.5.1
-script: "JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.witharchives.yml,_config.prod.yml'"
+script: "JEKYLL_ENV=production bundle exec jekyll build
 
 deploy:
     provider: pages
@@ -10,4 +10,4 @@ deploy:
     github-token: $GH_PAGES_DEPLOY_TOKEN  # Set in the settings page of your repository, as a secure variable
     keep-history: true
     on:
-branch: master
+        branch: master
