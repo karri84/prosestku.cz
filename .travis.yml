@@ -1,6 +1,11 @@
 language: ruby
 rvm:
     - 2.5.1
+
+before_install:
+    - gem install bundler
+    - bundle install --path vendor/bundle --full-index
+
 script: "JEKYLL_ENV=production bundle exec jekyll build"
 
 deploy:
