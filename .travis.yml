@@ -6,7 +6,7 @@ before_install:
     - gem install bundler
     - bundle install --path vendor/bundle --full-index
 
-script: "JEKYLL_ENV=production bundle exec jekyll build --config '_config.yml,_config.github.yml'"
+script: "JEKYLL_ENV=production bundle exec jekyll build
 
 deploy:
     provider: pages
