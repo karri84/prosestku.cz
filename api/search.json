@@ -1,58 +1,58 @@
 [
   
-    { "label": "Článek s embeddnutým flickerem", "value": "/prosestku.cz/aktuality/clanek-s-embeddnutym-flickerem.html"},
+    { "label": "Článek s embeddnutým flickerem", "value": "/aktuality/clanek-s-embeddnutym-flickerem.html"},
   
-    { "label": "Článek s videem místo obrázku", "value": "/prosestku.cz/aktuality/clanek-s-videem-misto-obrazku.html"},
+    { "label": "Článek s videem místo obrázku", "value": "/aktuality/clanek-s-videem-misto-obrazku.html"},
   
-    { "label": "Článek s vložený videem uvnitř textu", "value": "/prosestku.cz/aktuality/clanek-s-embednutym-videem.html"},
+    { "label": "Článek s vložený videem uvnitř textu", "value": "/aktuality/clanek-s-embednutym-videem.html"},
   
-    { "label": "Nadpis článku", "value": "/prosestku.cz/aktuality/priklad.html"},
-  
-  
-    { "label": "Filip Maťátko", "value": "/prosestku.cz/lide/filip-matatko/"},
-  
-    { "label": "Kateřina Bürgerová", "value": "/prosestku.cz/lide/katerina-burgerova/"},
-  
-    { "label": "Milena Moravcová", "value": "/prosestku.cz/lide/milena-moravcova/"},
-  
-    { "label": "Ondřej Karas", "value": "/prosestku.cz/lide/ondrej-karas/"},
-  
-    { "label": "Radim Kramář", "value": "/prosestku.cz/lide/radim-kramar/"},
+    { "label": "Nadpis článku", "value": "/aktuality/priklad.html"},
   
   
-    { "label": "Program pro &quot;Šestku&quot;", "value": "/prosestku.cz/komunalni-volby/program/movi-2018/movi-2018/"},
+    { "label": "Filip Maťátko", "value": "/lide/filip-matatko/"},
   
-    { "label": "Senát", "value": "/prosestku.cz/komunalni-volby/program/senat/senat/"},
+    { "label": "Kateřina Bürgerová", "value": "/lide/katerina-burgerova/"},
+  
+    { "label": "Milena Moravcová", "value": "/lide/milena-moravcova/"},
+  
+    { "label": "Ondřej Karas", "value": "/lide/ondrej-karas/"},
+  
+    { "label": "Radim Kramář", "value": "/lide/radim-kramar/"},
   
   
-    { "label": "Aktuality", "value": "/prosestku.cz/aktuality/"},
+    { "label": "Program pro &quot;Šestku&quot;", "value": "/komunalni-volby/program/movi-2018/movi-2018/"},
   
-    { "label": "O nás", "value": "/prosestku.cz/lide/"},
+    { "label": "Senát", "value": "/komunalni-volby/program/senat/senat/"},
   
-    { "label": "", "value": "/prosestku.cz/"},
   
-    { "label": "", "value": "/prosestku.cz/api/"},
+    { "label": "Aktuality", "value": "/aktuality/"},
   
-    { "label": "Komunální volby 2018", "value": "/prosestku.cz/komunalni-volby/"},
+    { "label": "O nás", "value": "/lide/"},
   
-    { "label": "", "value": "/prosestku.cz/kontakt/"},
+    { "label": "", "value": "/"},
   
-    { "label": "Články podle tagu", "value": "/prosestku.cz/tags/"},
+    { "label": "", "value": "/api/"},
   
-    { "label": "Mapa záměrů", "value": "/prosestku.cz/komunalni-volby/mapa-zameru"},
+    { "label": "Komunální volby 2018", "value": "/komunalni-volby/"},
   
-    { "label": "", "value": "/prosestku.cz/api/people.json"},
+    { "label": "", "value": "/kontakt/"},
   
-    { "label": "", "value": "/prosestku.cz/api/posts.json"},
+    { "label": "Články podle tagu", "value": "/tags/"},
   
-    { "label": "", "value": "/prosestku.cz/api/search.json"},
+    { "label": "Mapa záměrů", "value": "/komunalni-volby/mapa-zameru"},
   
-    { "label": "", "value": "/prosestku.cz/api/tags.json"},
+    { "label": "", "value": "/api/people.json"},
   
-    { "label": "", "value": "/prosestku.cz/feed.xml"},
+    { "label": "", "value": "/api/posts.json"},
   
-    { "label": "", "value": "/prosestku.cz/sitemap.xml"},
+    { "label": "", "value": "/api/search.json"},
   
-    { "label": "", "value": "/prosestku.cz/robots.txt"}
+    { "label": "", "value": "/api/tags.json"},
+  
+    { "label": "", "value": "/feed.xml"},
+  
+    { "label": "", "value": "/sitemap.xml"},
+  
+    { "label": "", "value": "/robots.txt"}
   
 ]

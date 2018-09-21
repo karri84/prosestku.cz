@@ -1,1 +1,1 @@
-Sitemap: /prosestku.cz/sitemap.xml
+Sitemap: /sitemap.xml
