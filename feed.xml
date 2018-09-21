@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-09-21T07:38:50+00:00</updated><id>/feed.xml</id><title type="html">PRO ŠESTKU</title><subtitle>Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.</subtitle><entry><title type="html">Článek s embeddnutým flickerem</title><link href="/aktuality/clanek-s-embeddnutym-flickerem.html" rel="alternate" type="text/html" title="Článek s embeddnutým flickerem" /><published>2018-07-22T00:00:00+00:00</published><updated>2018-07-22T00:00:00+00:00</updated><id>/aktuality/clanek-s-embeddnutym-flickerem</id><content type="html" xml:base="/aktuality/clanek-s-embeddnutym-flickerem.html">&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; data-context=&quot;true&quot; href=&quot;https://www.flickr.com/photos/pirati/42622817781/in/album-72157669846095718/&quot; title=&quot;Mikuláš Ferjenčík&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1760/42622817781_34bb2a5f76_c.jpg&quot; width=&quot;800&quot; height=&quot;534&quot; alt=&quot;Mikuláš Ferjenčík&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;</content><author><name>Jmeno Prijmeni</name></author><category term="blog" /><category term="tag1" /><category term="tag2" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/posts/obrazek-u-tohoto-postu.jpg" /></entry><entry><title type="html">Článek s videem místo obrázku</title><link href="/aktuality/clanek-s-videem-misto-obrazku.html" rel="alternate" type="text/html" title="Článek s videem místo obrázku" /><published>2018-06-11T00:00:00+00:00</published><updated>2018-06-11T00:00:00+00:00</updated><id>/aktuality/clanek-s-videem-misto-obrazku</id><content type="html" xml:base="/aktuality/clanek-s-videem-misto-obrazku.html">&lt;p&gt;Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.&lt;/p&gt;
+
+&lt;p&gt;Obrázky dávejte do assets/img/posts/&lt;/p&gt;
+
+&lt;h1 id=&quot;struktura&quot;&gt;Struktura&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;texty pište v &lt;em&gt;Markdown&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;viz &lt;a href=&quot;https://cs.wikipedia.org/wiki/Markdown&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;ukázky-typografie&quot;&gt;Ukázky typografie&lt;/h1&gt;
+
+&lt;h1 id=&quot;nadpis-1&quot;&gt;Nadpis 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;nadpis-2&quot;&gt;Nadpis 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;nadpis-3&quot;&gt;Nadpis 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;nadpis-4&quot;&gt;Nadpis 4&lt;/h4&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat. Etiam ligula pede, sagittis quis, interdum
+ultricies, scelerisque eu. Cras elementum. Vestibulum fermentum tortor id mi.
+Etiam quis quam. Mauris elementum mauris vitae tortor. Fusce tellus. Integer
+rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae
+placerat pede sem sit amet enim. Ut enim ad minima veniam, quis nostrum
+exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
+consequatur?&lt;/p&gt;
+
+&lt;h1 id=&quot;nadpis-1-1&quot;&gt;Nadpis 1&lt;/h1&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;h2 id=&quot;nadpis-2-1&quot;&gt;Nadpis 2&lt;/h2&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;h3 id=&quot;nadpis-3-1&quot;&gt;Nadpis 3&lt;/h3&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;h4 id=&quot;nadpis-4-1&quot;&gt;Nadpis 4&lt;/h4&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;h1 id=&quot;nečíslovaný-seznam&quot;&gt;Nečíslovaný seznam&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;číslovaný-seznam&quot;&gt;Číslovaný seznam&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;senznam-uvnitř-textu&quot;&gt;Senznam uvnitř textu&lt;/h1&gt;
+
+&lt;p&gt;Quisque porta. Nulla pulvinar eleifend sem. Praesent id justo in neque elementum
+ultrices. Aliquam erat volutpat. Etiam dictum tincidunt diam. Itaque earum rerum
+hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias
+consequatur aut perferendis doloribus asperiores repellat. Fusce tellus odio,
+dapibus id fermentum quis, suscipit id erat. Vestibulum erat nulla, ullamcorper
+nec, rutrum non, nonummy ac, erat. Nulla est. Donec iaculis gravida nulla.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Vivamus porttitor turpis ac leo. &lt;a href=&quot;https://example.com&quot;&gt;Aliquam&lt;/a&gt; ante. Nullam justo enim, consectetuer
+nec, ullamcorper ac, vestibulum in, elit. Maecenas libero. Aliquam ornare wisi
+eu metus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis
+bibendum, lectus ut viverra rhoncus, dolor nunc faucibus libero, eget facilisis
+enim ipsum id lacus. Nunc auctor. Fusce dui leo, imperdiet in, aliquam sit amet,
+feugiat eu, orci. Vestibulum fermentum tortor id mi. In dapibus augue non
+sapien. Mauris elementum mauris vitae tortor.&lt;/p&gt;
+
+&lt;h1 id=&quot;tabulka&quot;&gt;Tabulka&lt;/h1&gt;
+
+&lt;p&gt;Vivamus luctus egestas leo.
+Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Mauris dictum
+facilisis augue. Aenean placerat. Nullam lectus justo, vulputate eget mollis
+sed, tempor sed magna. Nullam feugiat, turpis at pulvinar vulputate, erat libero
+tristique tellus, nec bibendum odio risus sit amet ante. Fusce wisi. Phasellus
+enim erat, vestibulum vel, aliquam a, posuere eu, velit.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Vivamus porttitor turpis ac leo.&lt;/td&gt;
+    &lt;td&gt;Integer vulputate sem a nibh rutrum consequat.&lt;/td&gt;
+    &lt;td&gt;Integer tempor.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Vivamus porttitor turpis ac leo.&lt;/td&gt;
+    &lt;td&gt;Integer vulputate sem a nibh rutrum consequat.&lt;/td&gt;
+    &lt;td&gt;Integer tempor.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Vivamus porttitor turpis ac leo.&lt;/td&gt;
+    &lt;td&gt;Integer vulputate sem a nibh rutrum consequat.&lt;/td&gt;
+    &lt;td&gt;Integer tempor.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Vivamus porttitor turpis ac leo.&lt;/td&gt;
+    &lt;td&gt;Integer vulputate sem a nibh rutrum consequat.&lt;/td&gt;
+    &lt;td&gt;Integer tempor.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Cras elementum. Integer vulputate sem a nibh rutrum consequat. Integer tempor.
+Donec iaculis gravida nulla. Donec quis nibh at felis congue commodo. Vivamus
+porttitor turpis ac leo. Vivamus luctus egestas leo. Donec ipsum massa,
+ullamcorper in, auctor et, scelerisque sed, est. Phasellus rhoncus. Nam sed
+tellus id magna elementum tincidunt. Neque porro quisquam est, qui dolorem ipsum
+quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi
+tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Duis
+ante orci, molestie vitae vehicula venenatis, tincidunt ac pede.&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>Jmeno Prijmeni</name></author><category term="blog" /><category term="tag1" /><category term="tag2" /><summary type="html">Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/posts/obrazek-u-tohoto-postu.jpg" /></entry><entry><title type="html">Článek s vložený videem uvnitř textu</title><link href="/aktuality/clanek-s-embednutym-videem.html" rel="alternate" type="text/html" title="Článek s vložený videem uvnitř textu" /><published>2018-06-10T00:00:00+00:00</published><updated>2018-06-10T00:00:00+00:00</updated><id>/aktuality/clanek-s-embednutym-videem</id><content type="html" xml:base="/aktuality/clanek-s-embednutym-videem.html">&lt;p&gt;Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.&lt;/p&gt;
+
+&lt;p&gt;Obrázky dávejte do assets/img/posts/&lt;/p&gt;
+
+&lt;h1 id=&quot;struktura&quot;&gt;Struktura&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;texty pište v &lt;em&gt;Markdown&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;viz &lt;a href=&quot;https://cs.wikipedia.org/wiki/Markdown&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;youtube&quot;&gt;Youtube&lt;/h1&gt;
+
+&lt;p&gt;Lze embeddovat pomocí vložení:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;{% include youtube.html id='id youtube videa' %}&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Výsledek pak vypadá takto:&lt;/p&gt;
+
+&lt;iframe width=&quot;740&quot; height=&quot;416&quot; src=&quot;https://www.youtube.com/embed/5f0-nQLHHM4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;ukázky-typografie&quot;&gt;Ukázky typografie&lt;/h1&gt;
+
+&lt;h1 id=&quot;nadpis-1&quot;&gt;Nadpis 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;nadpis-2&quot;&gt;Nadpis 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;nadpis-3&quot;&gt;Nadpis 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;nadpis-4&quot;&gt;Nadpis 4&lt;/h4&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat. Etiam ligula pede, sagittis quis, interdum
+ultricies, scelerisque eu. Cras elementum. Vestibulum fermentum tortor id mi.
+Etiam quis quam. Mauris elementum mauris vitae tortor. Fusce tellus. Integer
+rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae
+placerat pede sem sit amet enim. Ut enim ad minima veniam, quis nostrum
+exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
+consequatur?&lt;/p&gt;
+
+&lt;h1 id=&quot;nadpis-1-1&quot;&gt;Nadpis 1&lt;/h1&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;h2 id=&quot;nadpis-2-1&quot;&gt;Nadpis 2&lt;/h2&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;h3 id=&quot;nadpis-3-1&quot;&gt;Nadpis 3&lt;/h3&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;h4 id=&quot;nadpis-4-1&quot;&gt;Nadpis 4&lt;/h4&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;h1 id=&quot;nečíslovaný-seznam&quot;&gt;Nečíslovaný seznam&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;číslovaný-seznam&quot;&gt;Číslovaný seznam&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;senznam-uvnitř-textu&quot;&gt;Senznam uvnitř textu&lt;/h1&gt;
+
+&lt;p&gt;Quisque porta. Nulla pulvinar eleifend sem. Praesent id justo in neque elementum
+ultrices. Aliquam erat volutpat. Etiam dictum tincidunt diam. Itaque earum rerum
+hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias
+consequatur aut perferendis doloribus asperiores repellat. Fusce tellus odio,
+dapibus id fermentum quis, suscipit id erat. Vestibulum erat nulla, ullamcorper
+nec, rutrum non, nonummy ac, erat. Nulla est. Donec iaculis gravida nulla.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Vivamus porttitor turpis ac leo. &lt;a href=&quot;https://example.com&quot;&gt;Aliquam&lt;/a&gt; ante. Nullam justo enim, consectetuer
+nec, ullamcorper ac, vestibulum in, elit. Maecenas libero. Aliquam ornare wisi
+eu metus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis
+bibendum, lectus ut viverra rhoncus, dolor nunc faucibus libero, eget facilisis
+enim ipsum id lacus. Nunc auctor. Fusce dui leo, imperdiet in, aliquam sit amet,
+feugiat eu, orci. Vestibulum fermentum tortor id mi. In dapibus augue non
+sapien. Mauris elementum mauris vitae tortor.&lt;/p&gt;
+
+&lt;h1 id=&quot;tabulka&quot;&gt;Tabulka&lt;/h1&gt;
+
+&lt;p&gt;Vivamus luctus egestas leo.
+Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Mauris dictum
+facilisis augue. Aenean placerat. Nullam lectus justo, vulputate eget mollis
+sed, tempor sed magna. Nullam feugiat, turpis at pulvinar vulputate, erat libero
+tristique tellus, nec bibendum odio risus sit amet ante. Fusce wisi. Phasellus
+enim erat, vestibulum vel, aliquam a, posuere eu, velit.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Vivamus porttitor turpis ac leo.&lt;/td&gt;
+    &lt;td&gt;Integer vulputate sem a nibh rutrum consequat.&lt;/td&gt;
+    &lt;td&gt;Integer tempor.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Vivamus porttitor turpis ac leo.&lt;/td&gt;
+    &lt;td&gt;Integer vulputate sem a nibh rutrum consequat.&lt;/td&gt;
+    &lt;td&gt;Integer tempor.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Vivamus porttitor turpis ac leo.&lt;/td&gt;
+    &lt;td&gt;Integer vulputate sem a nibh rutrum consequat.&lt;/td&gt;
+    &lt;td&gt;Integer tempor.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Vivamus porttitor turpis ac leo.&lt;/td&gt;
+    &lt;td&gt;Integer vulputate sem a nibh rutrum consequat.&lt;/td&gt;
+    &lt;td&gt;Integer tempor.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Cras elementum. Integer vulputate sem a nibh rutrum consequat. Integer tempor.
+Donec iaculis gravida nulla. Donec quis nibh at felis congue commodo. Vivamus
+porttitor turpis ac leo. Vivamus luctus egestas leo. Donec ipsum massa,
+ullamcorper in, auctor et, scelerisque sed, est. Phasellus rhoncus. Nam sed
+tellus id magna elementum tincidunt. Neque porro quisquam est, qui dolorem ipsum
+quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi
+tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Duis
+ante orci, molestie vitae vehicula venenatis, tincidunt ac pede.&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>Jmeno Prijmeni</name></author><category term="blog" /><category term="tag1" /><category term="tag2" /><summary type="html">Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/posts/obrazek-u-tohoto-postu.jpg" /></entry><entry><title type="html">Nadpis článku</title><link href="/aktuality/priklad.html" rel="alternate" type="text/html" title="Nadpis článku" /><published>2018-03-14T00:00:00+00:00</published><updated>2018-03-14T00:00:00+00:00</updated><id>/aktuality/priklad</id><content type="html" xml:base="/aktuality/priklad.html">&lt;p&gt;Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.&lt;/p&gt;
+
+&lt;p&gt;Obrázky dávejte do assets/img/posts/&lt;/p&gt;
+
+&lt;h1 id=&quot;struktura&quot;&gt;Struktura&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;texty pište v &lt;em&gt;Markdown&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;viz &lt;a href=&quot;https://cs.wikipedia.org/wiki/Markdown&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;ukázky-typografie&quot;&gt;Ukázky typografie&lt;/h1&gt;
+
+&lt;h1 id=&quot;nadpis-1&quot;&gt;Nadpis 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;nadpis-2&quot;&gt;Nadpis 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;nadpis-3&quot;&gt;Nadpis 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;nadpis-4&quot;&gt;Nadpis 4&lt;/h4&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat. Etiam ligula pede, sagittis quis, interdum
+ultricies, scelerisque eu. Cras elementum. Vestibulum fermentum tortor id mi.
+Etiam quis quam. Mauris elementum mauris vitae tortor. Fusce tellus. Integer
+rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae
+placerat pede sem sit amet enim. Ut enim ad minima veniam, quis nostrum
+exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
+consequatur?&lt;/p&gt;
+
+&lt;h1 id=&quot;nadpis-1-1&quot;&gt;Nadpis 1&lt;/h1&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;h2 id=&quot;nadpis-2-1&quot;&gt;Nadpis 2&lt;/h2&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;h3 id=&quot;nadpis-3-1&quot;&gt;Nadpis 3&lt;/h3&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;h4 id=&quot;nadpis-4-1&quot;&gt;Nadpis 4&lt;/h4&gt;
+
+&lt;p&gt;Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
+dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
+volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
+dolor. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;h1 id=&quot;nečíslovaný-seznam&quot;&gt;Nečíslovaný seznam&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;číslovaný-seznam&quot;&gt;Číslovaný seznam&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;senznam-uvnitř-textu&quot;&gt;Senznam uvnitř textu&lt;/h1&gt;
+
+&lt;p&gt;Quisque porta. Nulla pulvinar eleifend sem. Praesent id justo in neque elementum
+ultrices. Aliquam erat volutpat. Etiam dictum tincidunt diam. Itaque earum rerum
+hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias
+consequatur aut perferendis doloribus asperiores repellat. Fusce tellus odio,
+dapibus id fermentum quis, suscipit id erat. Vestibulum erat nulla, ullamcorper
+nec, rutrum non, nonummy ac, erat. Nulla est. Donec iaculis gravida nulla.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+  &lt;li&gt;Quisque porta. Nulla pulvinar eleifend sem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Vivamus porttitor turpis ac leo. &lt;a href=&quot;https://example.com&quot;&gt;Aliquam&lt;/a&gt; ante. Nullam justo enim, consectetuer
+nec, ullamcorper ac, vestibulum in, elit. Maecenas libero. Aliquam ornare wisi
+eu metus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis
+bibendum, lectus ut viverra rhoncus, dolor nunc faucibus libero, eget facilisis
+enim ipsum id lacus. Nunc auctor. Fusce dui leo, imperdiet in, aliquam sit amet,
+feugiat eu, orci. Vestibulum fermentum tortor id mi. In dapibus augue non
+sapien. Mauris elementum mauris vitae tortor.&lt;/p&gt;
+
+&lt;h1 id=&quot;tabulka&quot;&gt;Tabulka&lt;/h1&gt;
+
+&lt;p&gt;Vivamus luctus egestas leo.
+Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Mauris dictum
+facilisis augue. Aenean placerat. Nullam lectus justo, vulputate eget mollis
+sed, tempor sed magna. Nullam feugiat, turpis at pulvinar vulputate, erat libero
+tristique tellus, nec bibendum odio risus sit amet ante. Fusce wisi. Phasellus
+enim erat, vestibulum vel, aliquam a, posuere eu, velit.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Vivamus porttitor turpis ac leo.&lt;/td&gt;
+    &lt;td&gt;Integer vulputate sem a nibh rutrum consequat.&lt;/td&gt;
+    &lt;td&gt;Integer tempor.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Vivamus porttitor turpis ac leo.&lt;/td&gt;
+    &lt;td&gt;Integer vulputate sem a nibh rutrum consequat.&lt;/td&gt;
+    &lt;td&gt;Integer tempor.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Vivamus porttitor turpis ac leo.&lt;/td&gt;
+    &lt;td&gt;Integer vulputate sem a nibh rutrum consequat.&lt;/td&gt;
+    &lt;td&gt;Integer tempor.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Vivamus porttitor turpis ac leo.&lt;/td&gt;
+    &lt;td&gt;Integer vulputate sem a nibh rutrum consequat.&lt;/td&gt;
+    &lt;td&gt;Integer tempor.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Cras elementum. Integer vulputate sem a nibh rutrum consequat. Integer tempor.
+Donec iaculis gravida nulla. Donec quis nibh at felis congue commodo. Vivamus
+porttitor turpis ac leo. Vivamus luctus egestas leo. Donec ipsum massa,
+ullamcorper in, auctor et, scelerisque sed, est. Phasellus rhoncus. Nam sed
+tellus id magna elementum tincidunt. Neque porro quisquam est, qui dolorem ipsum
+quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi
+tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Duis
+ante orci, molestie vitae vehicula venenatis, tincidunt ac pede.&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>Jmeno Prijmeni</name></author><category term="blog" /><category term="tag1" /><category term="tag2" /><summary type="html">Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/posts/obrazek-u-tohoto-postu.jpg" /></entry></feed>

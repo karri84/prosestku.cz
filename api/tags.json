@@ -1,41 +1,80 @@
----
----
 
-{% capture tags %}
-  {% for tag in site.tags %}
-    {{ tag[0] }}
-  {% endfor %}
-	{% for team in site.teams %}
-		{{ team.tags }}
-	{% endfor %}
-{% endcapture %}
-{% assign sortedtags = tags | split:' ' | uniq | sort %}
+
 
 [
   {
-  {% for tag in sortedtags %}
-  {% assign posts = site.posts | where_exp: "item", "item.tags contains tag" %}
-  {% assign teams = site.teams | where_exp: "item", "item.tags contains tag" %}
-  "{{ tag }}":  [
-    {% for post in posts %}
+  
+  
+  
+  "tag1":  [
+    
       {
-        "title"   : "{{post.title}}",
-        "excerpt" : "{{post.excerpt | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
-        "url"     : "{{post.url | relative_path}}"
+        "title"   : "Článek s embeddnutým flickerem",
+        "excerpt" : "",
+        "url"     : "/aktuality/clanek-s-embeddnutym-flickerem.html"
       }
-      {% unless forloop.last %},{% endunless %}
-    {% endfor %}
-    {% if teams.size > 0 %}{% if posts.size > 0%},{% endif %}{% endif %}
-    {% for team in teams %}
+      ,
+    
       {
-        "uid"    : "{{team.uid}}",
-        "title"  : "Tým: {{team.title}}",
-        "excerpt": "{{team.excerpt | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
-        "url"    : "{{team.url | relative_path}}"
+        "title"   : "Článek s videem místo obrázku",
+        "excerpt" : "Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.",
+        "url"     : "/aktuality/clanek-s-videem-misto-obrazku.html"
       }
-      {% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  ]{% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      ,
+    
+      {
+        "title"   : "Článek s vložený videem uvnitř textu",
+        "excerpt" : "Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.",
+        "url"     : "/aktuality/clanek-s-embednutym-videem.html"
+      }
+      ,
+    
+      {
+        "title"   : "Nadpis článku",
+        "excerpt" : "Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.",
+        "url"     : "/aktuality/priklad.html"
+      }
+      
+    
+    
+    
+  ],
+  
+  
+  
+  "tag2":  [
+    
+      {
+        "title"   : "Článek s embeddnutým flickerem",
+        "excerpt" : "",
+        "url"     : "/aktuality/clanek-s-embeddnutym-flickerem.html"
+      }
+      ,
+    
+      {
+        "title"   : "Článek s videem místo obrázku",
+        "excerpt" : "Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.",
+        "url"     : "/aktuality/clanek-s-videem-misto-obrazku.html"
+      }
+      ,
+    
+      {
+        "title"   : "Článek s vložený videem uvnitř textu",
+        "excerpt" : "Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.",
+        "url"     : "/aktuality/clanek-s-embednutym-videem.html"
+      }
+      ,
+    
+      {
+        "title"   : "Nadpis článku",
+        "excerpt" : "Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.",
+        "url"     : "/aktuality/priklad.html"
+      }
+      
+    
+    
+    
+  ]
+  
   }
 ]

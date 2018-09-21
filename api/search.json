@@ -1,16 +1,58 @@
----
----
 [
-  {% for post in site.posts %}
-    { "label": "{{ post.title | escape }}", "value": "{{ post.url | relative_url }}"},
-  {% endfor %}
-  {% for person in site.people %}
-    { "label": "{{ person.name | escape }}", "value": "{{ person.url | relative_url }}"},
-  {% endfor %}
-  {% for page in site.program %}
-    { "label": "{{ page.title | escape }}", "value": "{{ page.url | relative_url }}"},
-  {% endfor %}
-  {% for page in site.pages %}
-    { "label": "{{ page.title | escape }}", "value": "{{ page.url | relative_url }}"}{% unless forloop.last %},{% endunless %}
-  {% endfor %}
+  
+    { "label": "Článek s embeddnutým flickerem", "value": "/aktuality/clanek-s-embeddnutym-flickerem.html"},
+  
+    { "label": "Článek s videem místo obrázku", "value": "/aktuality/clanek-s-videem-misto-obrazku.html"},
+  
+    { "label": "Článek s vložený videem uvnitř textu", "value": "/aktuality/clanek-s-embednutym-videem.html"},
+  
+    { "label": "Nadpis článku", "value": "/aktuality/priklad.html"},
+  
+  
+    { "label": "Filip Maťátko", "value": "/lide/filip-matatko/"},
+  
+    { "label": "Kateřina Bürgerová", "value": "/lide/katerina-burgerova/"},
+  
+    { "label": "Milena Moravcová", "value": "/lide/milena-moravcova/"},
+  
+    { "label": "Ondřej Karas", "value": "/lide/ondrej-karas/"},
+  
+    { "label": "Radim Kramář", "value": "/lide/radim-kramar/"},
+  
+  
+    { "label": "Program pro &quot;Šestku&quot;", "value": "/komunalni-volby/program/movi-2018/movi-2018/"},
+  
+    { "label": "Senát", "value": "/komunalni-volby/program/senat/senat/"},
+  
+  
+    { "label": "Aktuality", "value": "/aktuality/"},
+  
+    { "label": "O nás", "value": "/lide/"},
+  
+    { "label": "", "value": "/"},
+  
+    { "label": "", "value": "/api/"},
+  
+    { "label": "Komunální volby 2018", "value": "/komunalni-volby/"},
+  
+    { "label": "", "value": "/kontakt/"},
+  
+    { "label": "Články podle tagu", "value": "/tags/"},
+  
+    { "label": "Mapa záměrů", "value": "/komunalni-volby/mapa-zameru"},
+  
+    { "label": "", "value": "/api/people.json"},
+  
+    { "label": "", "value": "/api/posts.json"},
+  
+    { "label": "", "value": "/api/search.json"},
+  
+    { "label": "", "value": "/api/tags.json"},
+  
+    { "label": "", "value": "/feed.xml"},
+  
+    { "label": "", "value": "/sitemap.xml"},
+  
+    { "label": "", "value": "/robots.txt"}
+  
 ]
