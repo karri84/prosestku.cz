@@ -44,7 +44,7 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/prosestku/
+  profilePage: https://www.facebook.com/Pro-%C5%A0estku-transparentn%C3%AD-a-otev%C5%99en%C3%BD-obvod-295203911066076/
   profilePageName: PRO ŠESTKU
   appId: 1526197851008996
 
