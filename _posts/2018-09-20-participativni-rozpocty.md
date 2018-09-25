@@ -16,7 +16,7 @@ Principem *participativního rozpočtu* je, že radnice vyčlení v rozpočtu č
 Úspěšnost participativních rozpočtů závisí především na tom, kolik energie a prostředků do tohoto procesu obec investuje a jak dobře tento proces zvládne. Participativní rozpočet se dobře daří realizovat například v Brně, kde letos takto rozdělili 30 milionů korun. Podívejte se sami:
 [https://damenavas.brno.cz/](https://damenavas.brno.cz/)
 
-Rádi bychom particitativní procesy (a mezi nimi i participatní rozpočet) zavedli jako běžnou součást funování našeho obvodu. V prvních letech je možné uvažovat o částkách kolem půl až jednoho milionu korun, které by bylo možné tímto systémem rozdělit. Za to, co sami uznáte za vhodné.
+Rádi bychom particitativní procesy (a mezi nimi i participatní rozpočet) zavedli jako běžnou součást fungování našeho obvodu. V prvních letech je možné uvažovat o částkách kolem půl až jednoho milionu korun, které by bylo možné tímto systémem rozdělit. Za to, co sami uznáte za vhodné.
 
 ### Více informací:
 * [O participativním rozpočtování](https://cs.wikipedia.org/wiki/Participativn%C3%AD_rozpo%C4%8Dtov%C3%A1n%C3%AD)

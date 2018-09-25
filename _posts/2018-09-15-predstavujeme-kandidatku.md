@@ -6,7 +6,7 @@ date: 2018-09-15T08:00:00+01:00
 tags: kanditátka volby
 author: Kateřina Bürgerová
 authorId: katerina.burgerova    # uid nekoho z _people (nepoviné)
-image: people/katerina-burgerova.jpg
+image: people/katerina-burgerova-16ku9.jpg
 ---
 
 **PRO ŠESTKU je uskupením převážně nezávislých kandidátů. Kandidátku vede současná zastupitelka Kateřina Bürgerová, na třetím místě kandiduje lídr Pirátů na velkou radnici Ondřej Karas. Oba v uplynulých dvou letech prosazovali kroky vedoucí k větší transparentnosti obvodu a zapojení veřejnosti do jeho správy.**
