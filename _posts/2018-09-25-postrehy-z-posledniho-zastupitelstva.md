@@ -37,7 +37,7 @@ Z podnětu [Kateřiny Bürgerové][1] byl program jednání rozšířen o zpráv
 
 Změna územního rozhodnutí je pro občany z celé lokality jednoznačně nevýhodná, protože nepostavením lávky by přišli o důležitou spojnici směrem k lékaři, na úřad, či do obchodu, děti pak o bližší cestu do školy. Udělení souhlasu Radou MO Pardubice VI bylo nesprávné, obvod by měl zájmy svých občanů chránit. 
 
-Zastupitelstvo nemá podle zákona o obcích pravomoc zrušit rozhodnutí rady, protoo jsme navrhli, aby se Rada MO VI na svém nejbližším zasedání znovu žádostí CZ Stavebního holdingu zabývala a zvážila změnu svého usnesení. Nyní tedy záleží na radě, jak se k tomu postaví.
+Zastupitelstvo nemá podle zákona o obcích pravomoc zrušit rozhodnutí rady, proto jsme navrhli, aby se Rada MO VI na svém nejbližším zasedání znovu žádostí CZ Stavebního holdingu zabývala a zvážila změnu svého usnesení. Nyní tedy záleží na radě, jak se k tomu postaví.
 
 [1]: https://prosestku.cz/lide/katerina-burgerova/
 [2]: https://prosestku.cz/lide/ondrej-karas/
