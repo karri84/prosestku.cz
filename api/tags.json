@@ -21,6 +21,21 @@
   
   
   
+  "lávka":  [
+    
+      {
+        "title"   : "Postřehy z posledního jednání zastupitelstva",
+        "excerpt" : "V pondělí 24.9. se konalo jednání zastupitelstva našeho městského obvodu. Protože to bylo poslední jednání v tomto volebním období, tak se především bilancovalo.",
+        "url"     : "/aktuality/postrehy-z-posledniho-zastupitelstva.html"
+      }
+      
+    
+    
+    
+  ],
+  
+  
+  
   "participace":  [
     
       {
@@ -57,6 +72,21 @@
         "title"   : "Představujeme kandidátku PRO ŠESTKU",
         "excerpt" : "PRO ŠESTKU je uskupením převážně nezávislých kandidátů. Kandidátku vede současná zastupitelka Kateřina Bürgerová, na třetím místě kandiduje lídr Pirátů na velkou radnici Ondřej Karas. Oba v uplynulých dvou letech prosazovali kroky vedoucí k větší transparentnosti obvodu a zapojení veřejnosti do jeho správy.",
         "url"     : "/aktuality/predstavujeme-kandidatku.html"
+      }
+      
+    
+    
+    
+  ],
+  
+  
+  
+  "zastupitelstvo":  [
+    
+      {
+        "title"   : "Postřehy z posledního jednání zastupitelstva",
+        "excerpt" : "V pondělí 24.9. se konalo jednání zastupitelstva našeho městského obvodu. Protože to bylo poslední jednání v tomto volebním období, tak se především bilancovalo.",
+        "url"     : "/aktuality/postrehy-z-posledniho-zastupitelstva.html"
       }
       
     
