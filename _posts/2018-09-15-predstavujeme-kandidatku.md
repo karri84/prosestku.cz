@@ -5,7 +5,7 @@ title: Představujeme kandidátku PRO ŠESTKU
 date: 2018-09-15T08:00:00+01:00
 tags: kanditátka volby
 author: Kateřina Bürgerová
-authorId: katerina.burgerova    # uid nekoho z _people (nepoviné)
+# authorId: katerina.burgerova    # uid nekoho z _people (nepoviné)
 image: people/katerina-burgerova-16ku9.jpg
 ---
 

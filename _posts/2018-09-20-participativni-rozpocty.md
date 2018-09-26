@@ -5,7 +5,7 @@ title: Participativní rozpočty
 date: 2018-09-20T08:00:00+01:00
 tags: participace rozpočty
 author: Kateřina Bürgerová
-authorId: katerina.burgerova    # uid nekoho z _people (nepoviné)
+# authorId: katerina.burgerova    # uid nekoho z _people (nepoviné)
 image: posts/participace.jpg
 ---
 
