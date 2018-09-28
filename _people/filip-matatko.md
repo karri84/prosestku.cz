@@ -18,7 +18,7 @@ profiles:
   flickr:
 ---
 
-**Filip Maťátko** (* 2. řína 1983) se narodil v Pardubicích, kde také vyrůstal. Nyní žije 7 let v Lánech na Důlku, které už považuje za své, a ve kterých je také členem místní komise. 
+**Filip Maťátko** (* 2. října 1983) se narodil v Pardubicích, kde také vyrůstal. Nyní žije 7 let v Lánech na Důlku, které už považuje za své, a ve kterých je také členem místní komise. 
 
 Vystudoval střední průmyslovou školu elektrotechnickou a následně fakultu elektrotechniky v Brně. Po ukončení studia pracoval 8 let jako výrobní inženýr, nyní je téměř tři roky zaměstnáván jako plánovač výrobních linek. Jak sám říká, práce je to nad jeho očekávání pestrá, ale taky náročná. 
 
