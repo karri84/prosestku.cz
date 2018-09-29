@@ -11,7 +11,7 @@ image: people/katerina-burgerova-16ku9.jpg
 
 **Uskupení PRO ŠESTKU letos kandiduje v šestém pardubickém obvodě poprvé. Někteří kandidáti ale mají zkušenosti s komunální politikou z uplynulých volebních období. Co je k politice přivedlo, jaké mají motivace, na to se ptáme dnes Kateřiny Bürgerové, jedničky naší kandidátky.**
 
-#### Poprvé jste do zastupitelstva obvodu kandidovala před čtyřmi lety a rovnou úspěšně. Proč jste vstoupila do politiky?
+#### Před čtyřmi lety jste se poprvé stala zastupitelkou. Proč jste vstoupila do politiky?
 
 S obvodem jsem spolupracovala již několik let předtím jako předsedkyně Komise pro životní prostředí. Připravila jsem například všechna stanoviska obvodu k řízením o spalovně, účastnila se za obvod všech veřejných projednání. Zájem o práci v zastupitelstvu byl tedy takovým logickým pokračováním mého zapojení do veřejného života, který se podařilo před čtyřmi lety úspěšně naplnit.
 
