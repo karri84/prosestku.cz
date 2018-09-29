@@ -36,12 +36,42 @@
   
   
   
+  "obvody":  [
+    
+      {
+        "title"   : "Obvody musíme otevřít lidem",
+        "excerpt" : "Uskupení PRO ŠESTKU letos kandiduje v šestém pardubickém obvodě poprvé. Někteří kandidáti ale mají zkušenosti s komunální politikou z uplynulých volebních období. Co je k politice přivedlo, jaké mají motivace, na to se ptáme dnes Kateřiny Bürgerové, jedničky naší kandidátky.",
+        "url"     : "/aktuality/obvody-se-musi-otevrit-lidem.html"
+      }
+      
+    
+    
+    
+  ],
+  
+  
+  
   "participace":  [
     
       {
         "title"   : "Participativní rozpočty",
         "excerpt" : "Participativní rozpočty získávají stále větší oblibu. Hospodaření na přání veřejnosti si již vyzkoušelo více než třicet obcí, které v letošním roce rozdělily více než 100 milionů korun. Největší zájem je o investice do veřejných prostor, hřišť a zlepšení veřejných prostranství.",
         "url"     : "/aktuality/participativni-rozpocty.html"
+      }
+      
+    
+    
+    
+  ],
+  
+  
+  
+  "rozhovor":  [
+    
+      {
+        "title"   : "Obvody musíme otevřít lidem",
+        "excerpt" : "Uskupení PRO ŠESTKU letos kandiduje v šestém pardubickém obvodě poprvé. Někteří kandidáti ale mají zkušenosti s komunální politikou z uplynulých volebních období. Co je k politice přivedlo, jaké mají motivace, na to se ptáme dnes Kateřiny Bürgerové, jedničky naší kandidátky.",
+        "url"     : "/aktuality/obvody-se-musi-otevrit-lidem.html"
       }
       
     
