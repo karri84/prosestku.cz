@@ -25,19 +25,19 @@
     { "label": "Senát", "value": "/komunalni-volby/program/senat/senat/"},
   
   
-    { "label": "Aktuality", "value": "/aktuality/"},
-  
     { "label": "O nás", "value": "/lide/"},
   
+    { "label": "Aktuality", "value": "/aktuality/"},
+  
     { "label": "", "value": "/"},
+  
+    { "label": "Články podle tagu", "value": "/tags/"},
+  
+    { "label": "", "value": "/kontakt/"},
   
     { "label": "", "value": "/api/"},
   
     { "label": "Komunální volby 2018", "value": "/komunalni-volby/"},
-  
-    { "label": "", "value": "/kontakt/"},
-  
-    { "label": "Články podle tagu", "value": "/tags/"},
   
     { "label": "Mapa záměrů", "value": "/komunalni-volby/mapa-zameru"},
   
