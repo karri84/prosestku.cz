@@ -6,6 +6,21 @@
   
   
   
+  "kampaň":  [
+    
+      {
+        "title"   : "Komentář: Nákladní auto levně? - na úřadu MO VI",
+        "excerpt" : "V pondělí 17.prosince proběhlo první řádné zastupitelstvo našeho obvodu od voleb. Kromě toho, že si většina zastupitelů zvednutím ruky odhlasovala zvýšení vlastních odměn, dostala se znovu na přetřes i kauza zneužití majetku města ze strany starosty pro účely předvolební kampaně.",
+        "url"     : "/aktuality/nakladni-auto-levne-movi.html"
+      }
+      
+    
+    
+    
+  ],
+  
+  
+  
   "kanditátka":  [
     
       {
@@ -37,6 +52,13 @@
   
   
   "obvody":  [
+    
+      {
+        "title"   : "Komentář: Nákladní auto levně? - na úřadu MO VI",
+        "excerpt" : "V pondělí 17.prosince proběhlo první řádné zastupitelstvo našeho obvodu od voleb. Kromě toho, že si většina zastupitelů zvednutím ruky odhlasovala zvýšení vlastních odměn, dostala se znovu na přetřes i kauza zneužití majetku města ze strany starosty pro účely předvolební kampaně.",
+        "url"     : "/aktuality/nakladni-auto-levne-movi.html"
+      }
+      ,
     
       {
         "title"   : "Obvody musíme otevřít lidem",
