@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Komentář: Nákladní auto levně? - na úřadu MO VI"
+title: "Komentář: Nákladní auto levně? Na úřadu MO VI"
 date: 2018-12-18T08:00:00+01:00
 tags: obvody kampaň
 author: Ondřej Karas
