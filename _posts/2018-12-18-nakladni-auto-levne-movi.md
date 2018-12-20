@@ -29,7 +29,9 @@ P.S.: Usnesení, předložené náměstkyní Dvořáčkovou, které ukládalo ú
 
 **Více informací:**
 * [Na předvolební kampaň zneužil starosta Králíček majetek města (Deník)][1]
+* [Auto radnice ve volební agitaci pro starostu. Bez smlouvy, za naftu (Deník)][3]
 * [Podklady pro první jednání zastupitelstva MO VI][2]
 
 [1]:https://pardubicky.denik.cz/zpravy_region/video-na-predvolebni-kampan-zneuzil-starosta-kralicek-majetek-mesta-20181004.html
 [2]:https://www.pardubice.eu/urad/mestske-obvody/mestsky-obvod-pardubice-vi-svitkov/radnice/zastupitelstvo/podklady-pro-jednani-zastupitelstva/2018/podklady-pro-i-zasedani-zmo-pardubice-vi-dne-17-12-2018/
+[3]: https://pardubicky.denik.cz/zpravy_region/auto-radnice-ve-volebni-agitaci-pro-starostu-bez-smlouvy-za-naftu-20181220.html
